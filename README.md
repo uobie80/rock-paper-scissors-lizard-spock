@@ -25,8 +25,8 @@ python rpsls.py
 ## Image
 The output of running the program should have the following form:
 
-## Rock-paper-scissors-lizard-Spock
+### Rock-paper-scissors-lizard-Spock
 ![Program Output](./rpsls_program_output.png)
 
-## Authors
+## Author
 Uchenna Obicheta: [GitHub Profile](https://github.com/uobie80)
